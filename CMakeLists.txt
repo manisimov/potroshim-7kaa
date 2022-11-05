@@ -8,3 +8,4 @@ find_package (SDL2)
 find_package (SDL2_image)
 
 add_subdirectory (01_SDL_hello)
+add_subdirectory (02_Main_cursor)
